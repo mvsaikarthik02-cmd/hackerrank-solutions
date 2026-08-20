@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-08-20, 11:57 a.m.
+-- Submitted   2026-08-20, 12:30 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT CITY, LENGTH(CITY) FROM STATION
