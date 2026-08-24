@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-08-24, 12:42 p.m.
+-- Submitted   2026-08-24, 01:26 p.m.
 -- ──────────────────────────────────────────────────
 
 Select Max(Population)-Min(Population)
